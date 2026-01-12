@@ -114,7 +114,12 @@ The dashboard helps stakeholders quickly understand **why customers leave** and 
 * Data Visualization
 
 ---
+## 📸 Screenshot
 
+<img width="1920" height="1008" alt="Screenshot 2026-01-12 120531" src="https://github.com/user-attachments/assets/e9697dd1-7bef-4734-af93-b75c20b5585a" />
+
+
+---
 ## 📌 Conclusion
 
 This project demonstrates an end-to-end **data science workflow** from raw data to actionable business insights, combining **analytics,visualization**.
